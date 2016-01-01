@@ -1,0 +1,32 @@
+	1. 	Simple Present Tense
+		Rumus : S + V(s/es) + O
+	2. 	Present Continous Tense
+		Rumus : S + am/is/are + Ving
+	3. 	Present Prefect
+		Rumus : S + has/have + V3
+	4.	Present Perfect Continous
+		Rumus : S + has/have + been + Ving
+	5.	Simple Past Tense
+		Rumus : S + V2
+	6. 	Past Continous
+		Rumus : S + was/were + Ving
+	7.	Past Perfect
+		Rumus : S + had + V3
+	8. 	Past Perfect Continous
+		Rumus : S + had + been + Ving
+	9.  Simple Future Tense
+		Rumus : S + will/shall + V
+	10. Future Continous
+		Rumus : S + will/shall + be + Ving
+	11. Future Perfect
+		Rumus : S + will/shall + have + V3
+	12. Future Perfect Continous
+		Rumus : S + will/shall + have + been + Ving
+	13. Past Future Tense
+		Rumus : S + would/should + V
+	14. Past Future Continous
+		Rumus : S + would/should + be + Ving
+	15. Past Future Perfect
+		Rumus : S + would/should + have + V3
+	16. Past Future Perfect Continous
+		Rumus : S + would/should + have + been + Ving

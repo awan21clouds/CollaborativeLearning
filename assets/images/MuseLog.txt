@@ -1,0 +1,51 @@
+Logging in build 2014.0.1.30 started at: Mon Sep 21 20:22:29 2015
+========================================
+
+==========
+Logging ended at: Mon Sep 21 20:22:39 2015
+
+Logging in build 2014.0.1.30 started at: Mon Sep 21 20:22:41 2015
+========================================
+
+==========
+Logging ended at: Mon Sep 21 20:22:53 2015
+
+Logging in build 2014.0.1.30 started at: Mon Sep 21 21:40:38 2015
+========================================
+
+==========
+Logging ended at: Mon Sep 21 21:40:39 2015
+
+Logging in build 2014.0.1.30 started at: Mon Sep 21 21:40:46 2015
+========================================
+[00:02:37.797] 00:00:00.000 | Opening file 'D:\PROJECTS\PRAMUKA JABAR\pramuka jabar\pramuka jabar\pramukajabar6.muse' with status:success size:5898240 mod Date:Mon Sep 14 15:38:56 GMT+0700 2015 highestUID: 2967
+[00:13:06.734] 00:10:28.942 | Quitting Application after 13 minutes. Called by: MethodInfo-5705+MethodInfo-5718+EventDispatcher/dispatchEventFunction+EventDispatcher/dispatchEvent+MethodInfo-2770
+
+==========
+Logging ended at: Mon Sep 21 21:53:56 2015
+
+Logging in build 2014.0.1.30 started at: Wed Sep 23 17:53:02 2015
+========================================
+[00:00:41.812] 00:00:00.000 | Opening file 'D:\PROJECTS\PRAMUKA JABAR\pramuka jabar\pramuka jabar\pramukajabar6.muse' with status:success size:5898240 mod Date:Mon Sep 14 15:38:56 GMT+0700 2015 highestUID: 2967
+[00:06:16.281] 00:05:34.458 | Quitting Application after 6.1 minutes. Called by: MethodInfo-5705+MethodInfo-5718+EventDispatcher/dispatchEventFunction+EventDispatcher/dispatchEvent+MethodInfo-2770
+
+==========
+Logging ended at: Wed Sep 23 17:59:21 2015
+
+Logging in build 2014.0.1.30 started at: Wed Sep 23 18:04:58 2015
+========================================
+[00:00:41.062] 00:00:00.000 | Opening file 'C:\Users\Rizqy Fahmi\Downloads\pramukajabar_SIAPonly_1.muse' with status:success size:7077888 mod Date:Wed Sep 23 18:04:54 GMT+0700 2015 highestUID: 4727
+[00:02:45.078] 00:02:04.025 | SaveAs complete for file 'C:\Users\Rizqy Fahmi\Downloads\pramukajabar_SIAPonly_1.muse' file size:3637248 mod Date:Wed Sep 23 18:07:42 GMT+0700 2015 highest UID:4759
+[00:03:19.344] 00:00:34.271 | Quitting Application after 3.3 minutes. Called by: MethodInfo-5705+MethodInfo-5718+EventDispatcher/dispatchEventFunction+EventDispatcher/dispatchEvent+MethodInfo-2770
+
+==========
+Logging ended at: Wed Sep 23 18:08:19 2015
+
+Logging in build 2014.0.1.30 started at: Wed Sep 23 18:13:19 2015
+========================================
+[00:00:20.860] 00:00:00.000 | Opening file 'C:\Users\Rizqy Fahmi\Downloads\pramukajabar_SIAPonly_1.muse' with status:success size:3637248 mod Date:Wed Sep 23 18:07:42 GMT+0700 2015 highestUID: 4759
+[00:10:10.110] 00:09:49.255 | Quitting Application after 10.1 minutes. Called by: MethodInfo-5705+MethodInfo-5718+EventDispatcher/dispatchEventFunction+EventDispatcher/dispatchEvent+MethodInfo-2770
+
+==========
+Logging ended at: Wed Sep 23 18:23:32 2015
+
