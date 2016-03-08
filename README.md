@@ -1,3 +1,6 @@
+Social network for Elearning platform.
+Built with CodeIgniter
+
 # CodeIgniter 2
 Open Source PHP Framework (originally from EllisLab)
 
